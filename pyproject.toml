@@ -1,0 +1,13 @@
+[project]
+name = "lol-kill-sound"
+version = "1.0.0"
+description = "League of Legends で自分がキルを取ったとき、自分で用意したキル確認音を鳴らす Windows 向けローカルツール"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

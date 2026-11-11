@@ -1,0 +1,3 @@
+# 標準ライブラリのみで動作します（Windows では winsound で WAV 再生）。
+# 任意: Linux 等でテスト再生する場合
+# pygame>=2.5.0

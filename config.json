@@ -1,0 +1,5 @@
+{
+  "poll_interval_s": 0.35,
+  "debounce_s": 0.15,
+  "sound_path": "sounds/kill-confirm.mp3"
+}

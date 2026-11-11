@@ -1,0 +1,9 @@
+# 効果音は利用者が用意したものなので公開しない（README のとおり差し替えて使う）
+sounds/*.mp3
+sounds/*.wav
+
+# 配布用に作った zip
+*.zip
+
+__pycache__/
+.pytest_cache/
