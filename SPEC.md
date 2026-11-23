@@ -179,7 +179,7 @@ README.md
 
 ## 9. テスト
 
-pytest で、LoL にもネットにもつながず、音も鳴らさずに動かす。API の応答は偽物に差し替える。
+pytest で、LoL にもネットにもつながず、音も鳴らさずに動かす。API の応答はダミーに差し替える。
 
 ```
 python -m pip install pytest
